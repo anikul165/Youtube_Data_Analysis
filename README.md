@@ -47,4 +47,3 @@ This project analyzes YouTube data to derive insights related to user engagement
 ## Conclusion
 
 The analysis successfully derived insights into YouTube user engagement patterns and comment sentiments. Future work can include deeper analysis of user demographics and video content correlations.
-"""
